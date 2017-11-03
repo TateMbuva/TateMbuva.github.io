@@ -1,0 +1,103 @@
+body {
+	background-color: #f8f9fa;
+}
+.navbar {
+
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+   margin: 0px;
+   position: absolute;
+   width: 100%;
+   padding-top: 15px;
+   
+}
+.nav.navbar-nav.navbar-right li a {
+	color: white;
+	font-size: 20px !important;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 25px;
+	font-weight: 100;
+}
+a.active {
+	font-weight: 400 !important;
+}
+
+.jumbotron {
+	background: url('../img/header-image.jpg') no-repeat center center; 
+    background-size: cover;
+    height: 450px !important;
+    padding-top: 100px !important;
+    margin-bottom: 0px;
+    color: white;
+
+}
+.header-txt {
+	margin-top: 30px !important;
+}
+.typed-txt {
+	margin-bottom: 0px;
+	margin-top: 0px;
+
+}
+.dev-txt {
+	margin-bottom: 0px;
+	margin-top: 0px;
+
+}
+.name-txt {
+	margin-bottom: 0px !important;
+	margin-top: 10px;
+	font-weight: 500 !important;
+	font-size: 20px !important;
+
+}
+.quote-txt {
+	margin-bottom: 0px !important;
+	margin-top: 0px !important;
+	font-weight: 100 !important;
+	font-size: 15px !important;
+
+}
+.avi-info {
+	display: block;
+	position:absolute;
+	height: 72px;
+	z-index: 1000;
+	top: 290px;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+
+}
+
+.avi {
+	display: block;
+	position:absolute;
+	height: 120px;
+	width: 120px;
+	border-radius: 15px;
+	border-style: solid;
+    border-width: 5px;
+    border-color: #f8f9fa;
+    z-index: 1000;
+    top: 390px;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+
+
+}
+
+.header2-txt {
+	color: lightgrey;
+	margin-top: 100px !important;
+}
+
+.header3-txt {
+	color: lightgrey;
+}
+
